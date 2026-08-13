@@ -5,3 +5,9 @@ github:
 conda_build:
   error_overlinking: true
 conda_forge_output_validation: true
+
+provider:
+  osx_arm64: default
+
+build_platform:
+  osx_arm64: osx_64
