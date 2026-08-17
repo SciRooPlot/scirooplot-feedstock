@@ -8,3 +8,5 @@ conda_forge_output_validation: true
 
 provider:
   osx_arm64: azure
+bot:
+  automerge: true
